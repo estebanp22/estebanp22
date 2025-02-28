@@ -15,10 +15,8 @@
 - 🚀 Me interesa el desarrollo web, la arquitectura de software y las buenas prácticas en la programación.  
 - 🛠️ Disfruto crear aplicaciones eficientes, bien estructuradas y optimizadas para un mejor rendimiento.  
 - 📚 Siempre estoy en constante aprendizaje, explorando nuevas tecnologías y metodologías de desarrollo.  
-- 🏗️ Actualmente, estoy trabajando en mejorar mis habilidades en `Spring Boot`, `API REST` y desarrollo `Full Stack`.  
 
 <br>
-
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
 <br>
